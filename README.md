@@ -19,15 +19,15 @@ This is a simple Python-based trading bot that places market and limit orders on
 
 trading_bot/
 
-bot/
-client.py
-orders.py
-validators.py
-logging_config.py
+-bot/
+--client.py
+--orders.py
+--validators.py
+--logging_config.py
 
-cli.py
-requirements.txt
-README.md
+-cli.py
+--requirements.txt
+--README.md
 
 ---
 
